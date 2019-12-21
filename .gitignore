@@ -2,4 +2,5 @@ micro-gpio/_build/*
 micro-spi/_build/*
 micro-stepper/_build/*
 micro-ultrasonic/_build/*
-sys/*
+sys/CMSIS/Device/*
+sys/CMSIS/Include/*
