@@ -4,3 +4,4 @@ micro-stepper/_build/*
 micro-ultrasonic/_build/*
 lib/tft/Adafruit-GFX-Library/*
 lib/tft/Adafruit-ST7735-Library/*
+sys/*
