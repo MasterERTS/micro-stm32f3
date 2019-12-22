@@ -1,2 +1,3 @@
-# micro-sensor
-Ultrasound sensor implementation on STM32F303
+# Micro-controllers labs
+
+Board enslavement, ultrasonic sensor driver, stepper motor control...
